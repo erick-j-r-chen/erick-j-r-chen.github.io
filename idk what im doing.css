@@ -4,7 +4,8 @@ margin: 14px;
 }
 
 h1{
-position: center; 
+position: relative;
+float: center; 
 font-size: 65px;
 color: white;
 text-shadow: #FC0 9px 0px 5px, 0px 0px 5em blue, 0 0 0.5em green;
