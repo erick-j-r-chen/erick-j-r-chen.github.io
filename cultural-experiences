@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en"><html lang="cn"><html lang="jp">
+<head>
+		<title>Erick Chen</title>
+		<link rel="stylesheet" href="idk what im doing.css">
+		<script type="text/javascript">
+    		function goToNewPage()
+    		{
+        		var url = document.getElementById('list').value;
+        		if(url != 'none') {
+       				window.location = url;
+        		}
+   			 }
+		</script>
+		<link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
+		<style>
+		h1 footer body .navBar {
+			font-family: 'Abel', sans serif;
+		}
+		div.gallery {
+		  margin: 5px;
+		  border: 1px solid #345;
+		  float: left;
+		  width: 280px;
+		}
+
+		div.gallery:hover {
+		  border: 1px solid #777;
+		}
+
+		div.gallery img {
+		  width: 100%;
+		  height: auto;
+		}
+
+		div.desc {
+		  padding: 17px;
+		  text-align: center;
+		}
+		</style>
+</head>
+<body>
+	<header align="center">
+		<h1><strong>Cultural Experiences <ruby>國<rt>ㄍㄨㄛˊ</rt><ruby><ruby>際<rt>ㄐㄧˋ</rt><ruby><ruby>交<rt>ㄐㄧㄠ</rt><ruby><ruby>流<rt>ㄌㄧㄡˊ</rt><ruby></strong>
+			</h1>
+			<nav id="navBar">
+				<a class="navLink" href="index.html">
+				About
+				</a>
+				<a class="navLink" href="a">
+				Works
+				</a>
+				<a class="navLink" href="a">
+				Photography
+				</a>
+				<a class="navLink" href="music.html">
+				Music
+				</a>
+				<a class="navLink" href="cultural-experiences.html">
+				Cultural Experiences 
+				</a>
+				<a class="navLink" href="a">
+				Travels 
+				</a>
+			</nav>
+		<div class="gallery">
+			<a target="_blank" href="27990363_10213516213892149_902031829_o.jpg">
+		    	<img src="27990363_10213516213892149_902031829_o.jpg" width="600" height="400">
+			</a>
+			<div class="desc">One example of cultural exchange: ESS Conversation Table event</div>
+		</div>
+		<div class="gallery">
+			<a target="_blank" href="20190705_190705_0002.jpg">
+		    	<img src="20190705_190705_0002.jpg" width="600" height="400">
+			</a>
+			<div class="desc">One example of cultural exchange: birthday cake with homestay family in Japan</div>
+		</div>
+		<br>
+		<p>Erick has a passion for international exchange, including cross-cultural research and travel. At USC, Erick serves as Co-President of the Exchange Student Supporters (ESS), a student club which aims to serve as a platform for international exchange students to interact with USC students. Other examples of Erick's cross-cultural experiences include interning at the Keio Academy of New York's 2018 Summer Program, where he contributed by helping to create a PR video, highlighting the bonds between the Japanese and American students. As further proof of his interest in international exchange, Erick also studied abroad in Tokyo during his junior year. In the future, he hopes to pursue a career where he can continue to participate in cross-cultural communication.</p>
+		<br>
+		<p>
+		因為他在台灣長大但是受了美國教育, 又去了日本留學國, 所以陳浚瑞對國際交流非常感興趣. 他在南加州大學當留學生支援社團的社長之一. 透過社團, 他幫忙辦活動支持留學生, 讓他們有平台可以跟當地的南加大學生互動. 他曾經在紐約的慶應學院的暑期活動幫忙美國跟日本的中學生互動. 他也曾經在東京留學過一年. 他以後想要繼續參與國際交流活動.  
+		</p>
+		<br>
+		<p>
+		エリックチェンは国際交流に関心を持ちます。南カリフォルニア大学で留学生支援サークルの部長の一人を務めております。サークルを通して、様々な日本の大学からの留学生を含めて、大勢の留学生をサポートします。前にインターンとして、慶応ニューヨーク学園の夏休みプログラムにも参加させていただきました。将来、またアジアに戻って、国際交流の活動をしたいと思います。
+		</p>
+
+</body> 
