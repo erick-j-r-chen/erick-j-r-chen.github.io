@@ -1,0 +1,43 @@
+body{
+background: #1E88E5;
+margin: 14px;
+}
+
+h1{
+position: auto; 
+font-size: 65px;
+color: white;
+text-shadow: #FC0 9px 0px 5px, 0px 0px 5em blue, 0 0 0.5em green;
+}
+
+.navLink{
+color: darkblue;
+font-size: 30px;
+width: 222px;
+height: 30px;
+background-color: yellow;
+float: center;
+margin-top: -5px;
+padding: 8px;
+}
+
+#navBar{
+width: 85%;
+height: 70px;
+margin: auto;
+position: relative;
+}
+
+p{
+font-size: 17px;
+color: white;
+}
+
+footer{
+color: white;
+}
+
+a{
+font-size: 17px;
+}
+
