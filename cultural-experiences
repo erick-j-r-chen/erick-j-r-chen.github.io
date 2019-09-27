@@ -24,7 +24,7 @@
 		  width: 280px;
 		}
 
-		div.gallery:hover {
+		div.gallery: hover {
 		  border: 1px solid #777;
 		}
 
