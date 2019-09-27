@@ -4,7 +4,7 @@ margin: 14px;
 }
 
 h1{
-position: relative;
+position: fixed;
 float: center; 
 font-size: 65px;
 color: white;
